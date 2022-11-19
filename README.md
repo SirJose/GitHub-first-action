@@ -1,1 +1,1 @@
-# GitHub-frist-action
+# GitHub-first-action
